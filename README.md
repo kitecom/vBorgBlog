@@ -1,2 +1,0 @@
-# vBorgBlog
-Borg Blog
